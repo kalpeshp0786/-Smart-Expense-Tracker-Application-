@@ -1,0 +1,193 @@
+========== SMART EXPENSE TRACKER ==========
+1. Add Expense
+2. Show All Expenses
+3. Expense Summary and Analysis
+4. Filter Expenses
+5. Generate Report
+6. Show Charts
+7. Exit
+Enter your choice: 1
+Date (YYYY-MM-DD): 2005-06-26
+Amount: 5000
+Categories: Food, Transport, Utilities, Entertainment, Shopping, Health, Education, Other
+Category: Shopping
+Description: This project analyzes sales data using Python and displays useful information through charts and graphs.
+Expense added successfully.
+
+========== SMART EXPENSE TRACKER ==========
+1. Add Expense
+2. Show All Expenses
+3. Expense Summary and Analysis
+4. Filter Expenses
+5. Generate Report
+6. Show Charts
+7. Exit
+Enter your choice: 2
+
+--- All Expenses ---
+      Date  Amount      Category                                                                                              Description
+2026-01-03   250.0          Food                                                                                                Groceries
+2026-01-05    80.0     Transport                                                                                                 Bus fare
+2026-01-08  1200.0     Utilities                                                                                         Electricity bill
+2026-01-12   450.0 Entertainment                                                                                             Movie ticket
+2026-01-15   600.0          Food                                                                                               Restaurant
+2026-02-02   300.0     Transport                                                                                                     Fuel
+2026-02-06   900.0      Shopping                                                                                                  Clothes
+2026-02-10   500.0        Health                                                                                                 Medicine
+2026-02-14   350.0          Food                                                                                                    Lunch
+2026-03-01  1500.0     Utilities                                                                                       Internet and phone
+2026-03-04   700.0     Education                                                                                                    Books
+2026-03-09   400.0 Entertainment                                                                                   Streaming subscription
+2026-03-12   220.0     Transport                                                                                                Auto fare
+2026-03-18   850.0      Shopping                                                                                          Household items
+2005-06-26  5000.0      Shopping This project analyzes sales data using Python and displays useful information through charts and graphs.
+
+========== SMART EXPENSE TRACKER ==========
+1. Add Expense
+2. Show All Expenses
+3. Expense Summary and Analysis
+4. Filter Expenses
+5. Generate Report
+6. Show Charts
+7. Exit
+Enter your choice: 3
+
+--- Expense Summary ---
+Number of expenses : 15
+Total expenses     : Rs. 13300.00
+Average expense    : Rs. 886.67
+
+Category-wise totals:
+Category
+Shopping         6750.0
+Utilities        2700.0
+Food             1200.0
+Entertainment     850.0
+Education         700.0
+Transport         600.0
+Health            500.0
+
+Spending percentage by category:
+Shopping           50.75%
+Utilities          20.30%
+Food               9.02%
+Entertainment      6.39%
+Education          5.26%
+Transport          4.51%
+Health             3.76%
+
+Monthly average spending:
+Month
+2005-06    5000.0
+2026-01     516.0
+2026-02     512.5
+2026-03     734.0
+Freq: M
+
+Highest spending category: Shopping
+Highest expense amount : Rs. 5000.00
+
+========== SMART EXPENSE TRACKER ==========
+1. Add Expense
+2. Show All Expenses
+3. Expense Summary and Analysis
+4. Filter Expenses
+5. Generate Report
+6. Show Charts
+7. Exit
+Enter your choice: 4
+
+Filter Expenses
+1. By category
+2. By date range
+3. By amount range
+4. Show all expenses
+Choose filter: 2
+Start date (YYYY-MM-DD): 2001-02-08
+End date (YYYY-MM-DD): 2005-03-05
+No matching expenses found.
+
+========== SMART EXPENSE TRACKER ==========
+1. Add Expense
+2. Show All Expenses
+3. Expense Summary and Analysis
+4. Filter Expenses
+5. Generate Report
+6. Show Charts
+7. Exit
+Enter your choice: 5
+
+--- Expense Summary ---
+Number of expenses : 15
+Total expenses     : Rs. 13300.00
+Average expense    : Rs. 886.67
+
+Category-wise totals:
+Category
+Shopping         6750.0
+Utilities        2700.0
+Food             1200.0
+Entertainment     850.0
+Education         700.0
+Transport         600.0
+Health            500.0
+
+Spending percentage by category:
+Shopping           50.75%
+Utilities          20.30%
+Food               9.02%
+Entertainment      6.39%
+Education          5.26%
+Transport          4.51%
+Health             3.76%
+
+Monthly average spending:
+Month
+2005-06    5000.0
+2026-01     516.0
+2026-02     512.5
+2026-03     734.0
+Freq: M
+
+Highest spending category: Shopping
+Highest expense amount : Rs. 5000.00
+
+--- Expense Report ---
+Dataset file       : expenses.csv
+Records available  : 15
+Total spending     : Rs. 13300.00
+Average spending   : Rs. 886.67
+Categories used    : 7
+First expense date : 2005-06-26
+Last expense date  : 2026-03-18
+
+========== SMART EXPENSE TRACKER ==========
+1. Add Expense
+2. Show All Expenses
+3. Expense Summary and Analysis
+4. Filter Expenses
+5. Generate Report
+6. Show Charts
+7. Exit
+Enter your choice: 6
+
+========== SMART EXPENSE TRACKER ==========
+1. Add Expense
+2. Show All Expenses
+3. Expense Summary and Analysis
+4. Filter Expenses
+5. Generate Report
+6. Show Charts
+7. Exit
+Enter your choice: 6
+
+========== SMART EXPENSE TRACKER ==========
+1. Add Expense
+2. Show All Expenses
+3. Expense Summary and Analysis
+4. Filter Expenses
+5. Generate Report
+6. Show Charts
+7. Exit
+Enter your choice: 7
+Thank you for using Smart Expense Tracker.
